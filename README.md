@@ -1,6 +1,6 @@
-# System5*
+# System5
 
-_"[System5](https://system5.ml) é uma aplicação da **CubieCloud** para ajudar na nossa infraestrutura_
+_"[System5](https://system5.ml) é uma aplicação da **CubieCloud** para ajudar na nossa infraestrutura"_
 
 
 <hr>
